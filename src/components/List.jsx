@@ -1,11 +1,11 @@
-import Person from "./Person";
+import Person from './Person';
 
-const List = ({people}) => {
+const List = ({ people }) => {
   return (
     <section>
-      {people.map((person)=> {
-        return <Person key={person.id} {...person} />
-      })} 
+      {people.map((person) => {
+        return <Person key={person.id} {...person} />;
+      })}
     </section>
   );
 };

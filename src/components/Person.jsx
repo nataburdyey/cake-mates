@@ -1,12 +1,11 @@
 const Person = ({ image, name, age }) => {
   return (
-    <article className="person">
-      <img src={image} className="img" alt={name}></img>
+    <article className='person'>
+      <img src={image} className='img' alt={name}></img>
       <div>
-      <h4>{name}</h4>
-      <p>{age} years</p>
+        <h4>{name}</h4>
+        <p>{age} years</p>
       </div>
-
     </article>
   );
 };
