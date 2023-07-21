@@ -4,9 +4,9 @@ This app was developed as a practice project to explore React hooks, with a part
 
 ### Tech Stack
 - `HTML`: The fundamental language used for structuring the web application's content and user interface. 
-- `JavaScript`: Foundational programming language for creating responsive and interactive features.
-- `React`: A powerful JavaScript library used to build the project: 
-- - `useState` React hook used to manage state and create a state variable for the people array.
+- `JavaScript`: The foundational programming language for creating responsive and interactive features.
+- `React`: The powerful JavaScript library used to build the project: 
+- - `useState`: The React hook used to manage state.
 
 ### Explore the Website
 [CakeMates on Netlify](https://cake-mates.netlify.app/)
